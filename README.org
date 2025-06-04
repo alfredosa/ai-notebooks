@@ -1,0 +1,5 @@
+#+title: AI Notebooks
+#+author:    Alfredo Suarez
+#+email:     alfiexco@icloud.com
+
+A collection of nice notebooks doing ai stuff
